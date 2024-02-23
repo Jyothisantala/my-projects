@@ -1,0 +1,151 @@
+@media (max-width : 1024px) {
+    
+    .img3{
+        margin-left: 23%;
+    }
+    .h{
+        margin-left: 28%;
+    }
+.pa{
+margin-left: 28%;
+}
+.imgj{
+    margin-left: 20%;
+   }
+   .he1{
+    margin-left: 30%;
+    margin-top: 12%;
+   }
+   .he2{
+    margin-left: 30%;
+   
+   }
+   .pa1{
+    margin-left: 30%;
+   
+   }
+   
+   
+
+}
+
+@media (max-width : 991px) {
+    .btn1{
+        left: 20%;
+    }
+    .head{
+        margin-top: 20%;
+        margin-left: 30%;
+        }
+        .img{
+            width: 40%;
+            left: 24%;
+            margin-top: 37%;
+        }
+        .para{
+            margin-left: 30%;
+        }
+        .img1{
+            top: 20%;
+        }
+        .img3{
+            margin-left: 23%;
+        }
+        .h{
+            margin-left: 28%;
+        }
+   .pa{
+    margin-left: 28%;
+   }
+   .imgj{
+    margin-left: 15%;
+   }
+   .he1{
+    margin-left: 25%;
+    margin-top: 12%;
+   }
+   .he2{
+    margin-left: 25%;
+   
+   }
+   .pa1{
+    margin-left: 25%;
+   
+   }
+.imgm1{
+    width: 64%;
+}
+.imgt{
+    width: 3.2%;
+    height: 6.7%;
+}
+
+   
+}
+
+@media (max-width : 767px) {
+    h2{
+        font-size: 2rem;
+        
+    }
+    .btn1{
+        left: 5%;
+    }
+    .img{
+        width: 25%;
+        margin-top: 15%;
+    }
+    .img1{
+        top: 35%;
+    }
+    .head{
+        margin-left: 25%;
+    }
+    .para{
+        margin-left: 25%;
+    }
+    .head2{
+        left: -7%;
+    }
+    .img2{
+        margin-left: 10%;
+    }
+    
+    .img3{
+        margin-left: 10%;
+    }
+    .he3{
+        margin-left: 28%;
+    }
+    .para2{
+        margin-left: 28%;
+    }
+    .imgj{
+        margin-left: 3%;
+    }
+    .imgt{
+        width: 2%;
+        height: 7.2%;
+    }
+
+     .he5{
+        margin-left: 27%;
+     }
+     .pa5{
+        margin-left: 27%;
+     }
+     .imgt{
+        left: 27%;
+        width: 4%;
+     }
+     .pa6{
+        margin-left: 27%;
+     }
+    
+}
+
+@media (max-width : 330px) {
+    
+    
+    
+}

@@ -1,0 +1,136 @@
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:active,
+:hover,
+:focus {
+    outline: 0 !important;
+    outline-offset: 0;
+}
+
+.btn1{
+    font-size: 1.3rem;
+    padding: 3px 30px;
+    border: none;
+    background: rgb(169, 166, 166);
+    color: #fff;
+    font-weight: 600;
+    position: relative;
+    top: 50%;
+    left: 40%;
+}
+
+.img{
+    width: 38%;
+    position: relative;
+    left: 8%;
+    top: 5%;
+    
+}
+.img1{
+    top: 43%;
+    margin-right: 18px;
+}
+.para{
+position: relative;
+top: 13%;
+font-size: 15px;
+}
+dum{
+    border: 1px solid black;
+}
+.head2{
+position: relative;
+margin-top: 18%;
+margin-left: 35%;
+font-size: 33px;
+}
+.img2{
+    margin-top: 5%;
+}
+.he3{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 8%;
+}
+.img3{
+    margin-top: 2.5%;
+}
+.para2{
+    margin-left: 8%;
+}
+.he1{
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-top: 40%;
+    margin-left: 10%;
+}
+.pa1{
+    font-size: 0.9rem;
+    margin-top: 6%;
+    margin-left: 10%;
+}
+.he2{
+    font-size: 1.2rem;
+    margin-bottom: 2%;
+    margin-left: 10%;
+}
+.imgj{
+    margin-top: 20%;
+    
+}
+.imgm1{
+    width: 65%;
+    margin-top: 15%;
+    
+}
+.imgm{
+    width: 30%;
+    margin-top: 58%;
+    margin-left: 4%;
+    
+}
+.he4{
+    margin-top: 15%;
+    font-size: 1.9rem;
+    margin-left: 12%;
+}
+.pa4{
+    margin-top: 15%;
+    margin-left: 12%;
+    margin-top: 8%;
+}
+.list{
+    margin-left: 18%;
+    margin-top: 5%;
+}
+.imgt{
+    position: relative;
+    width: 2.3%;
+    height: 5.8%;
+    left: 39%;
+    top: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    
+}
+.he5{
+    margin-top: 7%;
+    margin-left: 40%;
+}
+.pa5{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.pa6{
+    margin-left: 40%;
+    margin-top: 4%;
+}
+
+
